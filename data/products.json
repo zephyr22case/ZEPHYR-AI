@@ -1,1 +1,5 @@
-
+[
+  { "name": "Cosmetics", "price": "TZS 15,000" },
+  { "name": "Dawa za meno", "price": "TZS 8,000" },
+  { "name": "Bee pollen", "price": "TZS 12,000" }
+]
